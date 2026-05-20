@@ -1,18 +1,256 @@
-# 💫 About Me:
-1.) Built end-to-end, production-ready projects (data → model → deployment)<br>2.)Experience with real-time intelligence and decision systems<br>3.) Hands-on with Python, ML frameworks, backend APIs, and deployment<br>4.) Interested in high-impact engineering roles and research-driven products
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,50:1f6feb,100:58a6ff&text=Apoorva%20Srivastava&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Product%20Developer%20"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/apoorvasrivastavv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivastavaapoorv2005@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Apoorva921&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Apoorva921&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva921&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer+with+3%2B+Years+of+Experience;Building+Scalable+AI+Products+and+Systems;AI+Engineer+%7C+System+Design+Enthusiast;Computer+Vision+%7C+Backend+Engineering+%7C+Research;Turning+Ideas+into+Impactful+Products" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/apoorvasrivastavv">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Apoorva921">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:srivastavaapoorv2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Apoorva921&label=Profile%20Views&color=1f6feb&style=for-the-badge"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Apoorva921&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+```yaml
+Name: Apoorva Srivastava
+Role: AI/ML Engineer | Product Developer 
+
+Experience:
+  - 3+ Years in AI & Product Engineering
+
+Specialization:
+  - Artificial Intelligence
+  - Machine Learning
+  - Product Engineering
+  - Computer Vision
+  - Backend Systems
+  - Scalable Applications
+  - Research & Innovation
+
+Current Focus:
+  - Financial Intelligence Platforms
+
+Passionate About:
+  - System Design
+  - Deep Learning
+  - Intelligent Automation
+  - Building Real-World Products
+```
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### 🚀 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,html,css" />
+
+<br/><br/>
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+
+<br/><br/>
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+
+<br/><br/>
+
+### 🤖 AI / ML / Data Science
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<br/><br/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+
+<br/><br/>
+
+### ☁️ Deployment & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,linux,vscode,postman" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Technologies |
+|---|---|---|
+| 🧠 **Retinal Vessel Analysis & AV Classification** | AI-powered retinal image analysis system for vessel segmentation and artery-vein classification | PyTorch, OpenCV, Streamlit, Computer Vision |
+| 💹 **Financial Modelling Software** | Institutional-grade financial modelling platform for Investment Banking and Private Equity with DCF valuation, LBO analysis, scenario modelling, forecasting, and financial statement automation | Python, Financial Modelling, Pandas, NumPy, Data Analytics |
+| 🎬 **CineMind** | Multimodal movie intelligence platform using computer vision and audio analysis for engagement prediction | FastAPI, ML, Audio Processing, CV |
+| 🚨 **Human Trafficking Detection System** | Real-time AI system using Reddit & News APIs for trafficking-related detection and alerts | NLP, Python, MongoDB, ML |
+| 🎓 **Academic Center IIT Kanpur** | Responsive academic management frontend system developed during IIT internship | HTML, CSS, JavaScript |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apoorva921&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=18"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva921&layout=compact&theme=tokyonight&hide_border=true&border_radius=18"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Apoorva921&theme=tokyonight&hide_border=true&border_radius=18"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Apoorva921&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apoorva921&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</div>
+
+---
+
+# 💻 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorva921&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🧠 Engineering Mindset
+
+<div align="center">
+
+```diff
++ Building scalable AI systems with real-world impact
++ Combining product thinking with engineering excellence
++ Passionate about system design and intelligent automation
++ Focused on shipping meaningful and high-performance products
+```
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Currently Exploring:
+  - Distributed Systems
+  - AI Infrastructure
+  - Financial Engineering
+  - Advanced Backend Architectures
+  - Scalable AI Products
+
+Building:
+  - Intelligent Financial Platforms
+  - AI Healthcare Solutions
+  - Real-Time Detection Systems
+```
+
+---
+
+# 🌟 Philosophy
+
+<div align="center">
+
+> “Great products are built where engineering, intelligence, and user experience meet.”
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+<div align="center">
+
+```javascript
+while(alive) {
+    learn();
+    build();
+    innovate();
+    repeat();
+}
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Building Products • Solving Problems • Creating Impact
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:58a6ff,50:1f6feb,100:0d1117"/>
+
+</div>
