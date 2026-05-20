@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,50:1f6feb,100:58a6ff&text=Apoorva%20Srivastava&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Product%20Developer%20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0d1117,25:111827,50:1f6feb,75:58a6ff,100:79c0ff&text=Apoorva%20Srivastava&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Product%20Developer%20•%20Building%20Scalable%20Intelligent%20Systems&descAlignY=60&descSize=18"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer+with+3%2B+Years+of+Experience;Building+Scalable+AI+Products+and+Systems;AI+Engineer+%7C+System+Design+Enthusiast;Computer+Vision+%7C+Backend+Engineering+%7C+Research;Turning+Ideas+into+Impactful+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=1100&lines=AI%2FML+Engineer+with+3%2B+Years+of+Experience;Building+Scalable+AI+Products+and+Platforms;Computer+Vision+%7C+Backend+Systems+%7C+Research;Financial+Engineering+%7C+Full+Stack+Development;System+Design+Enthusiast+and+Product+Builder" />
 
 <br/><br/>
 
@@ -20,6 +20,14 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Apoorva921&label=Profile%20Views&color=1f6feb&style=for-the-badge"/>
@@ -32,33 +40,42 @@
 
 ```yaml
 Name: Apoorva Srivastava
-Role: AI/ML Engineer | Product Developer 
+
+Role:
+  - AI/ML Engineer
+  - Product Developer
+  - Full Stack Engineer
 
 Experience:
   - 3+ Years in AI & Product Engineering
 
-Specialization:
+Core Expertise:
   - Artificial Intelligence
   - Machine Learning
   - Product Engineering
-  - Computer Vision
+  - Financial Engineering
   - Backend Systems
+  - Computer Vision
   - Scalable Applications
   - Research & Innovation
 
-Current Focus:
-  - Financial Intelligence Platforms
+Currently Building:
+  - Institutional Financial Modelling Systems
+  - AI-powered Healthcare Applications
+  - Intelligent Real-Time Detection Platforms
+  - Scalable AI Infrastructure
 
-Passionate About:
+Engineering Interests:
+  - Distributed Systems
   - System Design
   - Deep Learning
   - Intelligent Automation
-  - Building Real-World Products
+  - High Performance Backend Systems
 ```
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Tech Arsenal
 
 <div align="center">
 
@@ -68,19 +85,19 @@ Passionate About:
 
 <br/><br/>
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 
 <br/><br/>
 
-### ⚙️ Backend Development
+### ⚙️ Backend & APIs
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
 <br/><br/>
 
-### 🤖 AI / ML / Data Science
+### 🤖 AI / ML / Computer Vision
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
@@ -99,7 +116,7 @@ Passionate About:
 
 <br/><br/>
 
-### ☁️ Deployment & Tools
+### ☁️ DevOps & Deployment
 
 <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,linux,vscode,postman" />
 
@@ -111,23 +128,24 @@ Passionate About:
 
 <div align="center">
 
-| Project | Description | Technologies |
-|---|---|---|
-| 🧠 **Retinal Vessel Analysis & AV Classification** | AI-powered retinal image analysis system for vessel segmentation and artery-vein classification | PyTorch, OpenCV, Streamlit, Computer Vision |
-| 💹 **Financial Modelling Software** | Institutional-grade financial modelling platform for Investment Banking and Private Equity with DCF valuation, LBO analysis, scenario modelling, forecasting, and financial statement automation | Python, Financial Modelling, Pandas, NumPy, Data Analytics |
-| 🎬 **CineMind** | Multimodal movie intelligence platform using computer vision and audio analysis for engagement prediction | FastAPI, ML, Audio Processing, CV |
-| 🚨 **Human Trafficking Detection System** | Real-time AI system using Reddit & News APIs for trafficking-related detection and alerts | NLP, Python, MongoDB, ML |
-| 🎓 **Academic Center IIT Kanpur** | Responsive academic management frontend system developed during IIT internship | HTML, CSS, JavaScript |
+| Project | Description |
+|---|---|
+| 🧠 **Retinal Vessel Analysis & AV Classification** | AI-powered retinal image analysis system performing vessel segmentation, artery-vein classification, optic disc analysis, and computer vision-based diagnostics using deep learning |
+| 💹 **Financial Modelling Software** | Institutional-grade financial modelling platform for Investment Banking and Private Equity featuring DCF valuation, LBO modelling, scenario analysis, forecasting, and financial statement automation |
+| 🚨 **Human Trafficking Detection System** | Real-time AI detection system leveraging NLP pipelines, Reddit APIs, News APIs, and machine learning for intelligent trafficking-related threat identification |
+| 🎬 **CineMind** | Multimodal movie intelligence engine using computer vision and audio analysis to generate engagement analytics and highlight extraction |
+| 🏥 **Prescripto** | Full-stack healthcare consultation and appointment booking platform with authentication, real-time interactions, and scalable backend architecture |
+| 🎓 **Academic Center IIT Kanpur** | Responsive frontend system engineered during IIT internship for academic management and optimized UI/UX experiences |
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 Engineering Metrics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apoorva921&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=18"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apoorva921&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&rank_icon=github"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva921&layout=compact&theme=tokyonight&hide_border=true&border_radius=18"/>
 
@@ -135,7 +153,7 @@ Passionate About:
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -145,17 +163,17 @@ Passionate About:
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Apoorva921&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Apoorva921&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=7"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <div align="center">
 
@@ -165,7 +183,7 @@ Passionate About:
 
 ---
 
-# 💻 Coding Activity
+# 💻 Development Activity
 
 <div align="center">
 
@@ -179,21 +197,21 @@ Passionate About:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 🧠 Engineering Mindset
+# 🧠 Engineering Philosophy
 
 <div align="center">
 
 ```diff
-+ Building scalable AI systems with real-world impact
-+ Combining product thinking with engineering excellence
-+ Passionate about system design and intelligent automation
-+ Focused on shipping meaningful and high-performance products
++ Building systems that combine intelligence with scalability
++ Focused on engineering products with real-world impact
++ Passionate about backend architecture and AI systems
++ Constantly learning, building, and shipping
 ```
 
 </div>
@@ -203,17 +221,17 @@ Passionate About:
 # 🎯 Current Focus
 
 ```yaml
-Currently Exploring:
+Exploring:
   - Distributed Systems
-  - AI Infrastructure
   - Financial Engineering
-  - Advanced Backend Architectures
-  - Scalable AI Products
+  - AI Infrastructure
+  - Scalable Backend Architectures
+  - High Performance Systems
 
 Building:
   - Intelligent Financial Platforms
   - AI Healthcare Solutions
-  - Real-Time Detection Systems
+  - Real-Time AI Applications
 ```
 
 ---
@@ -222,7 +240,7 @@ Building:
 
 <div align="center">
 
-> “Great products are built where engineering, intelligence, and user experience meet.”
+> “Engineering is not just writing code — it’s designing systems that create impact at scale.”
 
 </div>
 
@@ -234,8 +252,8 @@ Building:
 
 ```javascript
 while(alive) {
-    learn();
     build();
+    learn();
     innovate();
     repeat();
 }
@@ -247,10 +265,10 @@ while(alive) {
 
 <div align="center">
 
-## 🚀 Building Products • Solving Problems • Creating Impact
+## 🚀 Building Products • Solving Problems • Shipping Impact
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:58a6ff,50:1f6feb,100:0d1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:79c0ff,50:1f6feb,100:0d1117"/>
 
 </div>
